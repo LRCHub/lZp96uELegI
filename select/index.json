@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Into It",
+  "base_artist": "Chase Atlantic",
+  "createdAt": "2026-03-05T16:47:24.684466Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Talked Myself Right into It",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/01_Talked_Myself_Right_into_It_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Talked Muself Right Into It",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/02_Talked_Muself_Right_Into_It_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Into It",
+      "artist": "A Boogie wit da Hoodie",
+      "has_synced": true,
+      "path": "select/03_Into_It_A_Boogie_wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Get Myself Into It (Sebastian remix)",
+      "artist": "The Rapture",
+      "has_synced": false,
+      "path": "select/04_Get_Myself_Into_It_(Sebastian_remix)_The_Rapture.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Get Into It",
+      "artist": "Phantom Planet",
+      "has_synced": true,
+      "path": "select/05_Get_Into_It_Phantom_Planet.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Get Into It (Album Version)",
+      "artist": "Phantom Planet",
+      "has_synced": true,
+      "path": "select/06_Get_Into_It_(Album_Version)_Phantom_Planet.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Get Myself Into It",
+      "artist": "The Rapture",
+      "has_synced": false,
+      "path": "select/07_Get_Myself_Into_It_The_Rapture.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Get Into It (Yuh)",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/08_Get_Into_It_(Yuh)_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Get Up, Get Into It, Get Involved",
+      "artist": "James Brown",
+      "has_synced": false,
+      "path": "select/09_Get_Up,_Get_Into_It,_Get_Involved_James_Brown.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Get Up, Get Into It And Get Involved",
+      "artist": "James Brown",
+      "has_synced": false,
+      "path": "select/10_Get_Up,_Get_Into_It_And_Get_Involved_James_Brown.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Get Up, Get Into It, Get Involved - Pt. 1 & 2 / Mono",
+      "artist": "James Brown",
+      "has_synced": false,
+      "path": "select/11_Get_Up,_Get_Into_It,_Get_Involved_-_Pt._1_&_2___Mono_James_Brown.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Into It",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/12_Into_It_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Get Myself Into It (album version)",
+      "artist": "The Rapture",
+      "has_synced": true,
+      "path": "select/13_Get_Myself_Into_It_(album_version)_The_Rapture.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "get into it (yuh)",
+      "artist": "doja cat",
+      "has_synced": true,
+      "path": "select/14_get_into_it_(yuh)_doja_cat.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Do I Have to Talk You Into It",
+      "artist": "Spoon",
+      "has_synced": true,
+      "path": "select/15_Do_I_Have_to_Talk_You_Into_It_Spoon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Just To Get Into It",
+      "artist": "Nazareth",
+      "has_synced": false,
+      "path": "select/16_Just_To_Get_Into_It_Nazareth.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Into It",
+      "artist": "Chase Atlantic",
+      "has_synced": false,
+      "path": "select/pl_01_Into_It_Chase_Atlantic.txt"
+    }
+  ]
+}
